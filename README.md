@@ -33,13 +33,11 @@ Utilizamos a biblioteca **ortools** em nossos experimentos. Para instalação em
 #### Experimento múltiplas mochilas baseado no método de Programação Inteira Mista
 3. Execute o arquivo **$DIR/src/02-experimento-google-ortools-mip.ipynb**, no notebook.
 
-4. Verifique os resultados na pasta $DIR/data/output
-
 #### Experimento múltiplas mochilas baseado no método CP-SAT
-5. Execute o arquivo **$DIR/src/03-experimento-google-ortools-cpsat.ipynb**, no notebook.
+4. Execute o arquivo **$DIR/src/03-experimento-google-ortools-cpsat.ipynb**, no notebook.
 
 #### Experimento múltiplas mochilas baseado em algoritmo de força bruta
-6. Execute o arquivo **$DIR/src/05-força-bruta.ipynb**, no notebook.
+5. Execute o arquivo **$DIR/src/05-força-bruta.ipynb**, no notebook.
 
-7. Verifique os resultados na pasta $DIR/data/output
+6. Verifique os resultados na pasta $DIR/data/output
 
