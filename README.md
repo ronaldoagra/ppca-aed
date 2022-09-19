@@ -7,6 +7,7 @@ Este grupo pesquisa métodos de otimização para auxiliar os gestores na tomada
 ### Métodos Estudados
 - [x] Programação Inteira Mista 
 - [x] Programação Linear
+- [x] Força Bruta
 * Programação por Restrição
 
 ### Estrutura de arquivos
@@ -37,5 +38,8 @@ Utilizamos a biblioteca **ortools** em nossos experimentos. Para instalação em
 #### Experimento múltiplas mochilas baseado no método CP-SAT
 5. Execute o arquivo **$DIR/src/03-experimento-google-ortools-cpsat.ipynb**, no notebook.
 
-6. Verifique os resultados na pasta $DIR/data/output
+#### Experimento múltiplas mochilas baseado no método CP-SAT
+6. Execute o arquivo **$DIR/src/05-força-bruta.ipynb**, no notebook.
+
+7. Verifique os resultados na pasta $DIR/data/output
 
