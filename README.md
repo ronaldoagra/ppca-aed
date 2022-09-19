@@ -8,7 +8,6 @@ Este grupo pesquisa métodos de otimização para auxiliar os gestores na tomada
 - [x] Programação Inteira Mista 
 - [x] Programação Linear
 - [x] Força Bruta
-* Programação por Restrição
 
 ### Estrutura de arquivos
 ```
